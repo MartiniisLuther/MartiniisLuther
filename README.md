@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h1 align="center">Hi 👋, Welcome</h1>
 <h3 align="center">💻 Java & Full-Stack Development Enthusiast | Building modern apps with JavaFX, PHP, and MySQL</h3>
 
 ---
 
 ### 🚀 About Me
+- I'm Martin. Welcome to my page!
 - 🔭 I’m currently developing **[Bank-Konto-JavaFX](https://github.com/MartiniisLuther/Bank-Konto-JavaFX.git)** — a JavaFX-based banking system with DB integration and UI management.
 - 🌱 I’m currently exploring **JavaFX, SQL Server, Docker, PHP, and frontend design (HTML, CSS, JS)**.
 - 🧠 My focus areas include:

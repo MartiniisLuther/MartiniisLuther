@@ -58,7 +58,7 @@
 ---
 
 ### 🧩 Featured Projects
-- 🧱 [TetrisGameInJavaFX]((https://github.com/MartiniisLuther/TetrisGameInJavaFX.git)) – Tetris Game implementation in JavaFX with game states and UI logic.
+- 🧱 [TetrisGameInJavaFX](https://github.com/MartiniisLuther/TetrisGameInJavaFX.git) – Tetris Game implementation in JavaFX with game states and UI logic.
 - 🎮 [SnakeXenzia_Java](https://github.com/MartiniisLuther/SnakeXenzia_Java.git) – Classic Snake game built with Java.
 - 🏦 [Bank-Konto-JavaFX](https://github.com/MartiniisLuther/Bank-Konto-JavaFX.git) – Java & JavaFX based Mobile banking simulation.
 - 🏦 [Coin--Project--Budget](https://github.com/MartiniisLuther/Coin--Project--Budget.git) - Full-stack Desktop & Mobile Financial planning app.

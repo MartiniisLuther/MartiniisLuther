@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, Welcome</h1>
-<h3 align="center">💻 Java & Full-Stack Development Enthusiast | Building modern apps with JavaFX, PHP, and MySQL</h3>
+<h2 align="center">Hi 👋, Welcome to my GitHub Page</h2>
+<h4 align="center">💻 Java & Full-Stack Development Enthusiast | Building modern apps with JavaFX, PHP, and MySQL</h4>
 
 ---
 
 ### 🚀 About Me
 - I'm Martin. Welcome to my page!
-- 🔭 I’m currently developing **[Bank-Konto-JavaFX](https://github.com/MartiniisLuther/Bank-Konto-JavaFX.git)** — a JavaFX-based banking system with DB integration and UI management.
-- 🌱 I’m currently exploring **JavaFX, SQL Server, Docker, PHP, and frontend design (HTML, CSS, JS)**.
+- 🔭 I’m currently developing **[ChessInJava]((https://github.com/MartiniisLuther/ChessInJava.git))** — a simple Java Swing 2D chess game.
+- 🌱 I’m currently exploring **JavaFX, Java Swing, SQL Server, Docker, PHP, and frontend design (HTML, CSS, JS)**.
 - 🧠 My focus areas include:
   - Clean Java OOP architecture
   - Database design & relationships (MySQL / SQL Server)
   - UI/UX with JavaFX
   - Full-stack app deployment
-- 👯 I’m open to collaborating on **JavaFX, desktop apps, or small-scale web platforms**.
+- 👯 I’m open to collaborating on **JavaFX Java Swing, desktop apps, or small-scale web platforms**.
 - 🤝 I’m seeking insights on **optimizing DB logic and Java backend integration** for real-world projects.
 - ⚡ Fun fact: **I like dinosaurs and classic retro games (especially SnakeXenzia & Tetris 🕹️)**
 
@@ -58,10 +58,11 @@
 ---
 
 ### 🧩 Featured Projects
-- 🧱 [TetrisGameInJavaFX](https://github.com/MartiniisLuther/TetrisGameInJavaFX.git) – Tetris Game implementation in JavaFX with game states and UI logic.
+- 🧱 [TetrisGameInJavaFX](https://github.com/MartiniisLuther/TetrisGameInJavaFX.git) – Tetris implementation in JavaFX with game states and UI logic.
 - 🎮 [SnakeXenzia_Java](https://github.com/MartiniisLuther/SnakeXenzia_Java.git) – Classic Snake game built with Java.
-- 🏦 [Bank-Konto-JavaFX](https://github.com/MartiniisLuther/Bank-Konto-JavaFX.git) – Java & JavaFX based Mobile banking simulation.
-- 🏦 [Coin--Project--Budget](https://github.com/MartiniisLuther/Coin--Project--Budget.git) - Full-stack Desktop & Mobile Financial planning app.
----
+- ♟️ [ChessInJava](https://github.com/MartiniisLuther/ChessInJava.git) – JavaFX chess application with game logic, UI management, and optional DB integration for move/history tracking.
+- 🏦 [Coin--Project--Budget](https://github.com/MartiniisLuther/Coin--Project--Budget.git) — Full-stack desktop & mobile financial planning app.
+- 🎫 [Ticket_App_Tutorial](https://github.com/MartiniisLuther/Ticket_App_Tutorial.git) — Dart/Flutter ticketing app; currently learning and following a YouTube tutorial.
 
+---
 ⭐️ *"Learning by building — one project at a time."*

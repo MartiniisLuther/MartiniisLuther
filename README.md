@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, Welcome to my GitHub Page</h2>
+<h2 align="center">Hi 👋, Welcome to my GitHub Page.</h2>
 <h4 align="center">💻 Java & Full-Stack Development Enthusiast | Building modern apps with JavaFX, PHP, and MySQL</h4>
 
 ---
@@ -31,7 +31,6 @@
 ### 🧰 Languages and Tools
 <p align="left">
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://openjfx.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/JavaFX_Logo.png" alt="javafx" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></a>
